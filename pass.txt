@@ -1,0 +1,82 @@
+::1
+otp-2= hjdfssjfsfdffs
+
+::1
+username-1= Bshsh
+password= hzhs
+
+::1
+username-1= Hshshd
+password= majhi
+
+::1
+otp-2= 84848
+
+::1
+Name-3= Majhi hiyo hum
+mobile= 945484805
+dob-day= 04
+dob-month= 05
+dob-year= 
+
+::1
+last-otp-4= 7474747
+
+::1
+last-otp-4= 7474747
+
+::1
+last-otp-5= 647474747
+
+::1
+last-otp-6= Ueueu
+
+::1
+username-1= Chchcj
+password= jxxhu
+
+::1
+otp-2
+848486
+
+otp-2= 848486
+
+::1
+Name-3= Hehd
+mobile= 656464
+dob-day= 
+dob-month= 
+dob-year= 
+
+192.168.81.17
+username-1= hgjhgjh
+password= ghjfvhjgjh
+
+192.168.81.249
+username-1= Hhhh
+password= hhhujhh
+
+192.168.81.249
+otp-2= Hjjhhh
+
+10.1.1.1
+username-1= Bb
+password= gchch
+
+10.1.1.1
+otp-2= 848486
+
+10.1.1.1
+Name-3= Ghhh
+mobile= 5236
+dob-day= 
+dob-month= 
+dob-year= 
+
+10.1.1.1
+last-otp-4= Gidugffxgyf
+
+2401:4900:1216:5332:598c:a259:97bd:84db
+username-1= tyyuuyui
+password= uhihoi
+
